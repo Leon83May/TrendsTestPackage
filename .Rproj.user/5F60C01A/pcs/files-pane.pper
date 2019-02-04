@@ -1,3 +1,9 @@
 {
-    "path" : "U:/Git/trendsTestPackage"
+    "path" : "U:/Git/trendsTestPackage",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
 }
